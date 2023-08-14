@@ -24,7 +24,7 @@ A world map application built using React and JavaScript. The application displa
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/world-map-application.git
+   git clone https://github.com/your-username/worldmap.git
    ```
 ````
 
